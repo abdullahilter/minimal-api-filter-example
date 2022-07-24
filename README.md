@@ -1,4 +1,4 @@
-# minimal-api-route-handler-filter-example
+# minimal-api-route-handler-filter
 
 ## Index
 - Fluent Validation
